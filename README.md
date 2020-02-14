@@ -1,2 +1,2 @@
 # github-recruit-spider
-github-recruit-spider is a spider to scraper and analysis candidate on github.
+github-recruit-spider is a spider to scrape and analysis candidate on github.
